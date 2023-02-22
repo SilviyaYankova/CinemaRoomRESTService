@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+      "name": "cinema.total-rows",
+      "type": "java.lang.String",
+      "description": "Description for cinema.total-rows."
+    },
+    {
+      "name": "cinema.total-columns",
+      "type": "java.lang.String",
+      "description": "Description for cinema.total-columns."
+    },
+    {
+      "name": "cinema.front-rows",
+      "type": "java.lang.String",
+      "description": "Description for cinema.front-rows."
+    },
+    {
+      "name": "cinema.front-rows-price",
+      "type": "java.lang.String",
+      "description": "Description for cinema.front-rows-price."
+    },
+    {
+      "name": "cinema.back-rows-price",
+      "type": "java.lang.String",
+      "description": "Description for cinema.back-rows-price."
+    }
+  ] }
